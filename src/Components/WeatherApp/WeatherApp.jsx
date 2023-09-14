@@ -12,7 +12,8 @@ import humidity_icon from '../Assets/humidity.png'
 
 function WeatherApp() {
 
-  let api_key = "074e5600abac6e2aee9e2304d51e73d5"
+  // API key from the .env file
+  let api_key = process.env.REACT_APP_WEATHER_API_KEY;
 
   // State to store the weather icon
   const [wicon, setWicon] = useState(cloudy_icon)

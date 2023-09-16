@@ -3,6 +3,9 @@
 
 This is a simple React weather app that allows you to search for weather information for a specific location. It fetches weather data from the OpenWeatherMap API and displays the current temperature, location, humidity, and wind speed.
 
+## Screenshots
+
+![App Screenshot](public/screenshot.png)
 
 ## Features
 
@@ -46,7 +49,7 @@ npm start
 ```
 
 5. Open your web browser and visit http://localhost:3000 to use the weather app.
-    
+
 ## Usage
 
 1. Enter the name of the city for which you want to check the weather in the search input field.

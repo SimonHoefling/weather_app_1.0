@@ -21,11 +21,9 @@ Before you start, make sure you have the following:
 
 
 - Node.js installed on your machine.
-- An API key from OpenWeatherMap to fetch weather data. Create a .env file in the root directory of your project and store your API key as follows:
+- An API key from OpenWeatherMap to fetch weather data.
 
-```bash
-REACT_APP_WEATHER_API_KEY=your_api_key_here
-```
+
 ## Installation
 
 1. Clone the repository:
@@ -43,12 +41,17 @@ cd weather_app_1.0
 npm install
 ```
 
-4. Start the development server:
+4. Create a .env file in the root directory of your project and store your API key as follows:
+```bash
+REACT_APP_WEATHER_API_KEY=your_api_key_here
+```
+
+5. Start the development server:
 ```bash
 npm start
 ```
 
-5. Open your web browser and visit http://localhost:3000 to use the weather app.
+6. Open your web browser and visit http://localhost:3000 to use the weather app.
 
 ## Usage
 

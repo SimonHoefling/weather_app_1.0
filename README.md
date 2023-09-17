@@ -41,7 +41,7 @@ cd weather_app_1.0
 npm install
 ```
 
-4. Create a .env file in the root directory of your project and store your API key as follows:
+4. Create a .env.local file in the root directory of your project and store your API key as follows:
 ```bash
 REACT_APP_WEATHER_API_KEY=your_api_key_here
 ```

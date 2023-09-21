@@ -5,7 +5,8 @@ This is a simple React weather app that allows you to search for weather informa
 
 ## Screenshots
 
-![App Screenshot](public/screenshot.png)
+https://github.com/SimonHoefling/weather_app_1.0/assets/100227595/a26ad4aa-b705-4a2e-92bc-756d0cc03039
+
 
 ## Features
 
